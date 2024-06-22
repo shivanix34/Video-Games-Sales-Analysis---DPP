@@ -48,5 +48,11 @@ Data normalization was performed to scale the numerical values to a common range
 ### 8. Data Visualization
 Post-processing, various data visualization techniques were applied to understand the trends and patterns in the data.
 
+## Data Visualisation
+![Image](https://github.com/shivanix34/Video-Games-Sales-Analysis---DPP/blob/main/Graphs/Screenshot%202024-06-23%20001847.png?raw=true)
+![Image](https://github.com/shivanix34/Video-Games-Sales-Analysis---DPP/blob/main/Graphs/Screenshot%202024-06-23%20001450.png?raw=true)
+![Image](https://github.com/shivanix34/Video-Games-Sales-Analysis---DPP/blob/main/Graphs/Screenshot%202024-06-23%20001558.png?raw=true)
+
+
 ## Conclusion
 The preprocessing steps outlined above help in cleaning and preparing the dataset for further analysis. The cleaned dataset can be used for various machine learning tasks to predict trends and patterns in video game sales.
